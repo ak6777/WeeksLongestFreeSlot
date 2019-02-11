@@ -1,0 +1,7 @@
+C:\Users\VELAS02\source\repos\LongestBreakTime\LongestBreakTime\bin\Debug\LongestBreakTime.exe.config
+C:\Users\VELAS02\source\repos\LongestBreakTime\LongestBreakTime\bin\Debug\LongestBreakTime.exe
+C:\Users\VELAS02\source\repos\LongestBreakTime\LongestBreakTime\bin\Debug\LongestBreakTime.pdb
+C:\Users\VELAS02\source\repos\LongestBreakTime\LongestBreakTime\obj\Debug\LongestBreakTime.csprojAssemblyReference.cache
+C:\Users\VELAS02\source\repos\LongestBreakTime\LongestBreakTime\obj\Debug\LongestBreakTime.csproj.CoreCompileInputs.cache
+C:\Users\VELAS02\source\repos\LongestBreakTime\LongestBreakTime\obj\Debug\LongestBreakTime.exe
+C:\Users\VELAS02\source\repos\LongestBreakTime\LongestBreakTime\obj\Debug\LongestBreakTime.pdb
